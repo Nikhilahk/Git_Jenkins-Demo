@@ -13,10 +13,10 @@ num2 = 4
 sum = num1 + num2
 
 # Display the sum
-print("num1",num1)
-print("num2",num2)
+print("num1 = ",num1)
+print("num2 = ",num2)
 
-print("sum of num1 and num2 is " sum)
+print("sum of num1 and num2 is = " ,sum)
 
 
 
