@@ -18,6 +18,6 @@ print("num2",num2)
 
 print("sum of num1 and num2 is " sum)
 
-print("Hello supriya")
+
 
 
