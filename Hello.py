@@ -6,8 +6,8 @@ print("This is Nikhila")
 
 print("Writing a program to add 2 numbers")
 
-num1 = 2
-num2 = 4
+num1 = 3
+num2 = 5
 
 # Add two numbers
 sum = num1 + num2
